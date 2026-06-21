@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "date": "15 июня 2025",
+    "title": "Дегустация вин Фанагории",
+    "description": "Вечер с сомелье, 5 вин + сырная тарелка",
+    "price": "3 500 ₽",
+    "image": "images/barrel.jpg",
+    "active": true
+  },
+  {
+    "id": 2,
+    "date": "28 июня 2025",
+    "title": "Ужин с шеф-поваром",
+    "description": "Авторское меню из 6 подач с винными паирами",
+    "price": "6 500 ₽",
+    "image": "images/hero-food.jpg",
+    "active": true
+  },
+  {
+    "id": 3,
+    "date": "12 июля 2025",
+    "title": "Винный уик-энд",
+    "description": "Экскурсия по винодельне + обед в ресторане",
+    "price": "4 000 ₽",
+    "image": "images/wine-wall.jpg",
+    "active": true
+  }
+]
